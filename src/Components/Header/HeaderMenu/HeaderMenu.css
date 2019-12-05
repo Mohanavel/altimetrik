@@ -1,0 +1,7 @@
+.header-menu-list li {
+    list-style-type: none;
+    display:inline-block;
+}
+.header-menu-list li a {
+    color: orange;
+}
